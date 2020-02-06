@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400|Poppins:400');
+
+
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 100%;/*16px*/
+    box-sizing: border-box;
+}
+
+.section-header{
+    text-align: center;
+}
+
+.servics-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-service{
+    padding: 60px 0;
+
+}
+
+img{
+    border-radius: .25rem;
+}
+
+.icon{
+    font-size: 90px;
+    color: #34495e;
+    
+}
+.hide{
+    text-align: center;
+}
+
+
+.card-body ul{
+    list-style: none;
+}
+
+.partner .header-4{
+    color: white;
+}
+//#192940
+//#63A4FF
+//#4B7BBF
